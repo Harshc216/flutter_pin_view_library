@@ -10,7 +10,10 @@
 
 ## 📷 Preview
 
-<!-- Add your preview image here -->
+<p align="center">
+  <img src="assets/pinview.gif" alt="PinView Preview" width="300"/>
+</p>
+
 *A beautiful, customizable PIN view widget with multiple styles, error animations, and standard input support.*
 
 ---
