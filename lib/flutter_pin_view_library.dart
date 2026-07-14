@@ -1,5 +1,4 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+// ignore_for_file: unnecessary_library_name
+library flutter_pin_view_library;
+
+export 'pin_view.dart';
